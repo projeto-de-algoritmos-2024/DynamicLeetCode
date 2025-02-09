@@ -51,4 +51,4 @@ Para testar o código na IDE de sua preferência, após realizada a instalação
 O código está otimizado para rodar no ambiente do LeetCode. Basta copiar e colar o código no link da respectiva questão (consultar links acima).
 
 ## Apresentação
-[Clique aqui]() para acessar o vídeo no YouTube.
+[Clique aqui](https://www.youtube.com/watch?v=fnGPmq2fPgU) para acessar o vídeo no YouTube.
